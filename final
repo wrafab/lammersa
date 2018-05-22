@@ -1,0 +1,42 @@
+<html>
+
+<head>
+<title> Final Project </title>
+
+<style>
+h1 {font-family:verdana; font-size:200%;text-align:center;}
+h2 {font-family:verdana; font-size:150%;text-align:center;}
+h3 {font-family:verdana; font-size:125%;text-align:center;}
+p {font-family:verdana;font-size:100%;text-align:center;}
+li {font-family:verdana;font-size:100%;text-align:center;}
+a {font-family:verdana;font-size:}100%;text-align:center;}
+</style>
+
+<body>
+<h1> Alex Lammers | WRA Digital Fab 2018</h1>
+<h2> May 3 - May 18
+</h1>
+<p>
+<hr style="width:50%">
+</p>
+
+<p>
+For my final project, I chose to make a smartphone projector. Our assignment was to use atleast four processes in the making of our final
+project. 
+For the projector, I designed a box to encase the projector using CorelDraw and lasercutting. I then glued the box together, and inserted a magnifying glass
+so that the light from the phone screen would be projected through the lense and made larger. I then spray painted the box black, and designed
+a couple stickers using Corel. One was of the Cavs logo, the other was a cool edit of Lebron James. I also designed a phonestand in Fusion 360
+and 3D Printed it. This would ensure that my phone wouldn't slide or fall, and keep the image/video being projected as still as possible.
+
+Processes:
+ - CAD (Computer Aided Design)
+ - Laser Cutting (Subtractive Manufacturing)
+ - 3D Printing (Sddative Manufacturing)
+ - Sticker Printing
+ 
+ Final Product!
+ </p>
+  <img src="projector1.JPG" class="centerImage" style="width:500px;height:500px;">
+   <img src="projector2.JPG" class="centerImage" style="width:500px;height:500px;">
+
+
